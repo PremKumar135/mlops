@@ -1,7 +1,7 @@
-mlops
-==============================
+# MLOPS
+---
 
-mlops try
+**This repo contains mlops of machine learning project using open source softwares**
 
 Project Organization
 ------------
